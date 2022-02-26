@@ -1,0 +1,4 @@
+Subida de desafio GITHUB
+
+Se que la consiga decia otra cosa profe, que arme la página de ot ra manera, pero me quedo sin maquina hasta el miercoles 9 :(. Me vine a lo de un amigo que me presto la PC y subi el ultimo trabajo a GIT.
+ Las demás correcciones acerca de botones que no llevan a ningun sitio son acertadas, aunque las hice adrede, me enfoque solamente en hacer una parte del sitio. Me gustaria saber como puedo hacer para que cuando yo clickeo en un boton que en teoria me tiene que llevar a otra página solo me lleve adentro de la misma pero que scrollee al lugar que yo quiera. Por ej en la pagina anterior que subi, no sabia como hacer las anclas para que si yo presionaba en por ejemplo "servicios" se scrollee toda la página hacia la seccion que diga "servicios" para hacer todo en un solo site.
